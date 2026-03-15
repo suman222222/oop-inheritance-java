@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ContractEmployee
+comment1.params=employeeId\ name\ basicSalary\ contractDuration
+comment1.target=ContractEmployee(int,\ java.lang.String,\ double,\ int)
+comment2.params=
+comment2.target=double\ calculateTotalSalary()
+comment3.params=
+comment3.target=void\ displayContractEmployee()
+numComments=4
